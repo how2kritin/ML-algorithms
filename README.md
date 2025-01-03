@@ -1,7 +1,7 @@
 # ML-algorithms
 A collection of various Machine Learning algorithms implemented from scratch in Python. [Statistical Methods in AI, IIIT-H Monsoon'24]
 
-These algorithms have been vectorized, and docstrings as well as comments are included.
+These algorithms have been vectorized so that they run faster, and docstrings as well as comments are included.
 
 ## Pre-requisites
 1. `python`
