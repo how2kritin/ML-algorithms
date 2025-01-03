@@ -12,7 +12,7 @@ These algorithms have been vectorized, and docstrings as well as comments are in
 ## Contents
 1. [K-Nearest Neighbours (KNN)](models/knn/knn.py)
 2. [Linear Regression](models/linear_regression/linear_regression.py)
-3. [Principal Component Analysis](models/pca/pca.py)
+3. [Principal Component Analysis (PCA)](models/pca/pca.py)
 4. [K-Means](models/k_means/k_means.py)
-5. [Gaussian Mixture Model](models/gmm/gmm.py)
-6. [Kernel Density Estimation](models/kde/kde.py)
+5. [Gaussian Mixture Model (GMM)](models/gmm/gmm.py)
+6. [Kernel Density Estimation (KDE)](models/kde/kde.py)
